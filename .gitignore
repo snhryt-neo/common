@@ -1,0 +1,6 @@
+secret/*
+__pycache__/*
+cloudcfg.py
+*.ipynb
+.DS_Store
+
